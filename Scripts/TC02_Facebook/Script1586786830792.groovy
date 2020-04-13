@@ -17,3 +17,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('https://www.facebook.com')
 
+WebUI.click(findTestObject(null))
+
